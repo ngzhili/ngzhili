@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Zhili and I aspire to be a data scientist and AI engineer. I am a current NUS Penultimate majoring in Mechanical Engineering + USP with a minor in Computer Science. Having a profound interest in the innovation of Artificial Intelligence, machine learning and data science, I am always on the lookout for opportunities to network and learn from industry experts in my fields of interest.
+
+### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhili&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+
 <!--
 **ngzhili/ngzhili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
