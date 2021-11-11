@@ -16,7 +16,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhili&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhili&hide=jupyter notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 
 <!--
 **ngzhili/ngzhili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
