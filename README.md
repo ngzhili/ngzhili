@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zhili and I aspire to be a data scientist and AI engineer. I am a current NUS Penultimate majoring in Mechanical Engineering + USP with a minor in Computer Science. Having a profound interest in the innovation of Artificial Intelligence, machine learning and data science, I am always on the lookout for opportunities to network and learn from industry experts in my fields of interest.
+My name is Zhili and I am passionate in creating AI and data science products that could make an impact on the world. I am a current NUS Penultimate majoring in Mechanical Engineering + University Scholars Programme (USP) with a minor in Computer Science. Having a profound interest in the innovation of Artificial Intelligence, machine learning and data science, I am always on the lookout for opportunities to network and learn from industry experts in my fields of interest.
 
 
 <!-- Actual text -->
