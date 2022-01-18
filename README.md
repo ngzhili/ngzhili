@@ -4,6 +4,8 @@ My name is Zhili and I am passionate in creating AI and data science products th
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ngzhili&show_icons=true&theme=radical)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=ngzhili)
+
 <!-- Actual text -->
 ### Connect with Me: 
 [<img align="left" alt="ng zhili | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
