@@ -6,7 +6,7 @@ My name is Zhili and I am passionate in creating AI and data science products th
 
 <!-- Actual text -->
 ### Connect with Me: 
-[<img align="left" alt="ng zhili | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="ng zhili | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
 <!-- Links to your social media accounts -->
