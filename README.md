@@ -71,6 +71,8 @@ src="https://user-images.githubusercontent.com/69728128/147269395-cc099f7e-a327-
 
 [<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
 
+[<img align="left" alt="Databricks" width="26px" src="https://user-images.githubusercontent.com/69728128/176496099-5ef69877-3561-4457-bd14-411d5ee2a8bd.png" />][databricks]
+
 [<img align="left" alt="Docker" width="26px" 
 src="https://user-images.githubusercontent.com/69728128/147267704-4dd96fdf-a1e4-4775-84f9-b111876c3a89.png" />][docker]
 
@@ -103,6 +105,7 @@ src="https://user-images.githubusercontent.com/69728128/147270118-5c1077e0-3cc0-
 [anaconda]: https://www.anaconda.com/
 [gcp]: https://cloud.google.com/
 [aws]: https://aws.amazon.com/
+[databricks]: https://databricks.com/
 
 <!--### Github Stats-->
 
