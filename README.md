@@ -29,6 +29,8 @@ I am passionate in creating AI and data science products that could make an impa
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mysql_icon_130379.png" />][mysql]
 
+[<img align="left" alt="postgresql" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" />][postgresql]
+
 
 </br>
 
@@ -89,6 +91,7 @@ src="https://user-images.githubusercontent.com/69728128/147270118-5c1077e0-3cc0-
 [html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/ngzhili
 [jupyternotebook]: https://jupyter.org/
