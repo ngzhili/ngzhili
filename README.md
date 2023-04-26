@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am passionate in creating AI and data science products that could make an impact on the world. Having a profound interest in the innovation of Artificial Intelligence, machine learning and data science, I am always on the lookout for opportunities to network and learn from industry experts in my fields of interest.
+I am passionate in creating AI and data science products that could make an impact on the world. If you have similar interests, let's connect!
 
 ![Zhili GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngzhili&show_icons=true&theme=radical)
 
