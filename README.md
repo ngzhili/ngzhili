@@ -29,7 +29,7 @@ I am passionate in creating AI and data science products that could make an impa
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mysql_icon_130379.png" />][mysql]
 
-[<img align="left" alt="postgresql" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" />][postgresql]
+[<img align="left" alt="postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
 
 
 </br>
