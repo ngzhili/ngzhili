@@ -2,8 +2,8 @@
 
 I am passionate in creating AI and data science products that could make an impact on the world. If you have similar interests, let's connect!
 
-![Zhili GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngzhili&show_icons=true&theme=radical)
-
+<!--![Zhili GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngzhili&show_icons=true&theme=radical)
+-->
 <!-- Actual text -->
 ### Connect with Me: 
 [<img align="left" alt="ng zhili | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
