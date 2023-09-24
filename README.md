@@ -12,7 +12,7 @@ I am passionate in creating AI and data science products that could make an impa
 <!-- Links to your social media accounts -->
 
 [linkedin]: https://www.linkedin.com/in/ngzhili/
-
+<!--
 </br>
 
 ### Languages:
@@ -109,7 +109,7 @@ src="https://user-images.githubusercontent.com/69728128/147270118-5c1077e0-3cc0-
 [gcp]: https://cloud.google.com/
 [aws]: https://aws.amazon.com/
 [databricks]: https://databricks.com/
-
+-->
 <!--### Github Stats-->
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhili&hide=jupyter notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />-->
