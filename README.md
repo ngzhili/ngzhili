@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am passionate in creating at the intersection between large-scale AI and systems to create scalable AI products. If you have similar interests, let's connect!
+I am passionate in developing at the intersection of large-scale AI and systems to create scalable AI products. If you have similar interests, let's connect!
 
 <!--![Zhili GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngzhili&show_icons=true&theme=radical)
 -->
